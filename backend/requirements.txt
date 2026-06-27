@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-slowapi
-yt-dlp
-pydantic
-gunicorn
